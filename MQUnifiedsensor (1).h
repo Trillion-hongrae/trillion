@@ -46,6 +46,8 @@ class MQUnifiedsensor
     float getRS();    
     float setRsR0RatioGetPPM(float value);
 
+  public:
+  
     byte _pin = 1;
     byte _firstFlag = false;
     float _VOLT_RESOLUTION  = 5.0; // if 3.3v use 3.3
