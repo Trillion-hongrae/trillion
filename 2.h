@@ -1,5 +1,5 @@
-#ifndef asdf_H
-  #define asdf_H
+#ifndef MQUnifiedsensor_H
+  #define MQUnifiedsensor_H
 
 #include <Arduino.h>
 #include <stdint.h>
